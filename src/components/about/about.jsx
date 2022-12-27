@@ -22,7 +22,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>No Experiences yet</small>
+              <small>6 months of Learning</small>
             </article>
 
             <article className="about__card">
@@ -30,9 +30,18 @@ const About = () => {
               <h5>Projects</h5>
               <small>5+ projects</small>
             </article>
+            <article className="about__card">
+              <VscFolderLibrary className="about__icon" />
+              <h5>Companies</h5>
+              <small>Not worked yet</small>
+            </article>
           </div>
           <p>
-            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+            My name is BHAVYA VERMA. Currently, I am persuing my B.tech. in Electronics and Communication Engnieering from MMMUT, Gorakhpur. I'm from Ballia, Uttar Pradesh.
+            My skills include making a fullstack website in MERN. I have fine idea about Javascript.
+            I can work on both on FRONTEND as well as BACKEND. 
+            I have 3 stars on HackerRank in C++, and 2 stars in C language.
+           
           </p>
           <a href="#contact" className="btn-btn-primary">
             Let's Talk

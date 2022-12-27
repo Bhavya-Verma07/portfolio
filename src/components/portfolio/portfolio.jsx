@@ -16,13 +16,13 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={Img1} alt="cloud" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Cloud Cover</h3>
           <div className="portfolio__item-image">
-          <a href="https://github.com" className="btn">
+          <a href="https://github.com/Bhavya-Verma07/CloudCover" className="btn">
             github repo
           </a>
           <a
-            href="https://github.com"
+            href="https://bhavya-verma07.github.io/CloudCover/"
             className="btn btn-primary"
             target="_blank"
           >
@@ -34,13 +34,13 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={Img2} alt="cloud" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Task Keeper App</h3>
           <div className="portfolio__item-image">
-          <a href="https://github.com" className="btn">
+          <a href="https://github.com/Bhavya-Verma07/TaskKeeperBackend" className="btn">
             github repo
           </a>
           <a
-            href="https://github.com"
+            href="https://task-keeper-app.onrender.com"
             className="btn btn-primary"
             target="_blank"
           >
@@ -52,13 +52,13 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={Img3} alt="cloud" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Movie API App</h3>
           <div className="portfolio__item-image">
-          <a href="https://github.com" className="btn">
+          <a href="https://github.com/Bhavya-Verma07/movieAPI" className="btn">
             github repo
           </a>
           <a
-            href="https://github.com"
+            href="https://itsmovieapiapp.netlify.app/"
             className="btn btn-primary"
             target="_blank"
           >

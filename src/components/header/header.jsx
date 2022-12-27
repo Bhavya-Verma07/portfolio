@@ -6,7 +6,7 @@ import Headersocial from "./headersocial";
 
 const Header = () => {
   return (
-    <header>
+    <header id="#home">
       <div className="container header__container">
         <h5 style={{ padding: "10px" }}>Hey There! I am </h5>
         <h1>Bhavya Verma</h1>

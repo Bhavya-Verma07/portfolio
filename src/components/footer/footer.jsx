@@ -12,7 +12,7 @@ const Footer = () => {
       </a>
       <ul className="parmalinks">
         <li>
-          <a href="#">Home</a>
+          <a href="#home">Home</a>
         </li>
         <li>
           <a href="#about">About</a>
@@ -28,18 +28,18 @@ const Footer = () => {
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="https://facebook.com">
+        <a href="https://m.facebook.com/100007015121068/">
           <FaFacebookF />
         </a>
-        <a href="https://instagram.com">
+        <a href="https://www.instagram.com/priya_verma_710/">
           <FaInstagram />
         </a>
-        <a href="https://twitter.com">
+        <a href="https://mobile.twitter.com/BhavyaV23872030">
           <IoLogoTwitter />
         </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; Bhavya Verma's Porfile. All reghts reserved.</small>
+        <small>&copy; Bhavya Verma's Porfile. All rIghts reserved.</small>
       </div>
     </footer>
   );
