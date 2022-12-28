@@ -18,8 +18,10 @@ body {
 
 :root {
   --color-bg: #1f1f38;
-  --color-bg-variant: #015452;
-  --color-primary: #4db5ff;
+  /* --color-bg-variant: #015452; */
+  --color-bg-variant: #a02525b9;
+  /* --color-primary: #4db5ff; */
+  --color-primary: #fc87ac; 
   --color-primary-variant: rgba(77, 181, 255, 0.4);
   --color-white: #fff;
   --color-light: rgba(255, 255, 255, 0.6);
@@ -42,7 +44,8 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(../src/assets/Solid\ Dark\ Teal.jpg);
+  /* background-image: url(../src/assets/Solid\ Dark\ Teal.jpg); */
+  background-image: url(../src/assets/lightblackbg.jpg);
 }
 
 .container {
@@ -116,7 +119,7 @@ img {
 }
  
 section {
-  margin-top: 6rem;
+  margin-top: 4rem;
  
 }
 

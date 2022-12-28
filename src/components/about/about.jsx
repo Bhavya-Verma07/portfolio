@@ -37,9 +37,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            My name is BHAVYA VERMA. Currently, I am persuing my B.tech. in Electronics and Communication Engnieering from MMMUT, Gorakhpur. I'm from Ballia, Uttar Pradesh.
-            My skills include making a fullstack website in MERN. I have fine idea about Javascript.
-            I can work on both on FRONTEND as well as BACKEND. 
+            My name is BHAVYA VERMA. Currently, I am persuing my B.tech. in Electronics and Communication Engnieering from Madan Mohan Malaviya University of Technology, Gorakhpur. I'm from Ballia, Uttar Pradesh.
+            My skills include making a fullstack MERN website. I have fine idea about Javascript.
+            I can work both on FRONTEND as well as BACKEND. 
             I have 3 stars on HackerRank in C++, and 2 stars in C language.
            
           </p>
