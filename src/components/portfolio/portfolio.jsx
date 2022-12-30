@@ -3,6 +3,7 @@ import "./portfolio.css";
 import Img1 from "../../assets/CLOUDIMAGE.jpg";
 import Img2 from "../../assets/taskimage.jpg";
 import Img3 from "../../assets/formovie.png";
+import Img4 from "../../assets/otp-verificationIMG.jpg";
 
 const Portfolio = () => {
   return (
@@ -41,6 +42,24 @@ const Portfolio = () => {
           </a>
           <a
             href="https://task-keeper-app.onrender.com"
+            className="btn btn-primary"
+            target="_blank"
+          >
+            Live demo
+          </a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={Img4} alt="cloud" />
+          </div>
+          <h3>Authenticate User App</h3>
+          <div className="portfolio__item-image">
+          <a href="https://github.com/Bhavya-Verma07/AuthenticateUser" className="btn">
+            github repo
+          </a>
+          <a
+            href="https://authenticate-user.onrender.com"
             className="btn btn-primary"
             target="_blank"
           >
