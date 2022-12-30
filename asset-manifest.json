@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9c5f095d.css",
-    "main.js": "/portfolio/static/js/main.2f9a4df6.js",
+    "main.js": "/portfolio/static/js/main.843cf498.js",
     "static/media/IMG_20220608_154439_Bokeh.jpg": "/portfolio/static/media/IMG_20220608_154439_Bokeh.e1e4c8e92eccf6ff4b56.jpg",
     "static/media/lightblackbg.jpg": "/portfolio/static/media/lightblackbg.278c1c90f62207778d4d.jpg",
     "static/media/formovie.png": "/portfolio/static/media/formovie.ccaf5489cb0c34e20633.png",
     "static/media/CLOUDIMAGE.jpg": "/portfolio/static/media/CLOUDIMAGE.e9d95dc11ddaecc0d2a8.jpg",
+    "static/media/otp-verificationIMG.jpg": "/portfolio/static/media/otp-verificationIMG.44bf21f24184703d2503.jpg",
     "static/media/taskimage.jpg": "/portfolio/static/media/taskimage.d33c1d8733e7de51e1ab.jpg",
     "static/media/Bhavya-Resume1.pdf": "/portfolio/static/media/Bhavya-Resume1.e293e47df2426bcc1357.pdf",
     "index.html": "/portfolio/index.html",
     "main.9c5f095d.css.map": "/portfolio/static/css/main.9c5f095d.css.map",
-    "main.2f9a4df6.js.map": "/portfolio/static/js/main.2f9a4df6.js.map"
+    "main.843cf498.js.map": "/portfolio/static/js/main.843cf498.js.map"
   },
   "entrypoints": [
     "static/css/main.9c5f095d.css",
-    "static/js/main.2f9a4df6.js"
+    "static/js/main.843cf498.js"
   ]
 }
