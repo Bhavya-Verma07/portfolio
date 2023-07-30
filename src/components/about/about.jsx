@@ -37,10 +37,11 @@ const About = () => {
             </article>
           </div>
           <p>
-            My name is BHAVYA VERMA. Currently, I am persuing my B.tech. in Electronics and Communication Engnieering from Madan Mohan Malaviya University of Technology, Gorakhpur. I'm from Ballia, Uttar Pradesh.
-            My skills include making a fullstack MERN website. I have fine idea about Javascript.
-            I can work both on FRONTEND as well as BACKEND. 
-            I have 3 stars on HackerRank in C++, and 2 stars in C language.
+          Greetings,<br/>
+
+I am Bhavya Verma, currently pursuing my B.Tech. in Electronics and Communication Engineering at Madan Mohan Malaviya University of Technology, Gorakhpur. Hailing from Ballia, Uttar Pradesh, I possess a diverse skill set, specializing in creating full-stack MERN (MongoDB, Express.js, React.js, Node.js) websites. My expertise extends to proficiently working with JavaScript, both on the frontend and backend aspects of development. Additionally, I have achieved a commendable rating of 3 stars on HackerRank in C++ and 2 stars in the C language.
+<br/>
+Thank you for visiting my portfolio, and I look forward to sharing my professional journey and projects with you.
            
           </p>
           <a href="#contact" className="btn-btn-primary">

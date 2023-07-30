@@ -53,7 +53,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={Img4} alt="cloud" />
           </div>
-          <h3>Authenticate User App</h3>
+          <h3>Authentication App</h3>
           <div className="portfolio__item-image">
           <a href="https://github.com/Bhavya-Verma07/AuthenticateUser" className="btn">
             github repo
