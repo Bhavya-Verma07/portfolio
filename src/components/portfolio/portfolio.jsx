@@ -12,18 +12,17 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className="container protfolio__container">
-      
-        <article className="portfolio__item">
+      <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={Img1} alt="cloud" />
+            <img src={Img4} alt="cloud" />
           </div>
-          <h3>Cloud Cover</h3>
+          <h3>Authentication App</h3>
           <div className="portfolio__item-image">
-          <a href="https://github.com/Bhavya-Verma07/CloudCover" className="btn">
+          <a href="https://github.com/Bhavya-Verma07/AuthenticateUser" className="btn">
             github repo
           </a>
           <a
-            href="https://bhavya-verma07.github.io/CloudCover/"
+            href="https://authenticate-user.onrender.com"
             className="btn btn-primary"
             target="_blank"
           >
@@ -51,15 +50,15 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={Img4} alt="cloud" />
+            <img src={Img1} alt="cloud" />
           </div>
-          <h3>Authentication App</h3>
+          <h3>Cloud Cover</h3>
           <div className="portfolio__item-image">
-          <a href="https://github.com/Bhavya-Verma07/AuthenticateUser" className="btn">
+          <a href="https://github.com/Bhavya-Verma07/CloudCover" className="btn">
             github repo
           </a>
           <a
-            href="https://authenticate-user.onrender.com"
+            href="https://bhavya-verma07.github.io/CloudCover/"
             className="btn btn-primary"
             target="_blank"
           >
@@ -67,6 +66,8 @@ const Portfolio = () => {
           </a>
           </div>
         </article>
+       
+        
         <article className="portfolio__item">
           <div className="portfolio__item-image">
             <img src={Img3} alt="cloud" />

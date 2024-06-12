@@ -1,7 +1,8 @@
 import React from "react";
 import "./header.css";
 import CTA from "./CTA";
-import ME from "../..//assets/IMG_20220608_154439_Bokeh.jpg";
+// import ME from "../..//assets/IMG_20220608_154439_Bokeh.jpg";
+import ME from "../..//assets/portfoliodesign.jpg";
 // import ME from "../..//assets/formalpic.jpg";
 import Headersocial from "./headersocial";
 

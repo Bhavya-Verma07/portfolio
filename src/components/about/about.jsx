@@ -19,10 +19,11 @@ const About = () => {
 
         <div className="about__content">
           <div className="about__cards">
+
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>6 months of Learning</small>
+              <small>6+ months</small>
             </article>
 
             <article className="about__card">
@@ -30,16 +31,22 @@ const About = () => {
               <h5>Projects</h5>
               <small>5+ projects</small>
             </article>
+
+
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Companies</h5>
-              <small>Not worked yet</small>
+              <small>
+              <a href="https://www.linkedin.com/company/upraisedd/mycompany/">Upraised</a>
+              </small>
             </article>
+
+
           </div>
           <p>
           Greetings,<br/>
 
-I am Bhavya Verma, currently pursuing my B.Tech. in Electronics and Communication Engineering at Madan Mohan Malaviya University of Technology, Gorakhpur. Hailing from Ballia, Uttar Pradesh, I possess a diverse skill set, specializing in creating full-stack MERN (MongoDB, Express.js, React.js, Node.js) websites. My expertise extends to proficiently working with JavaScript, both on the frontend and backend aspects of development. Additionally, I have achieved a rating of 3 stars on HackerRank in C++ and 2 stars in the C language. Also, I have 250+ gfg problem solving score.
+I am Bhavya Verma, completed my B.Tech, Electronics and Communication Engineering in May 2024, at Madan Mohan Malaviya University of Technology, Gorakhpur. Hailing from Ballia, Uttar Pradesh, I possess a diverse skill set, specializing in creating full-stack MERN (MongoDB, Express.js, React.js, Node.js) websites. My expertise extends to proficiently working with JavaScript, both on the frontend and backend aspects of development. Additionally, I have achieved a rating of 3 stars on HackerRank in C++ and 2 stars in the C language. Also, I have solved 450+ problems on coding platforms such as GFG, leetcode, Hackerrank.
 <br/>
 Thank you for visiting my portfolio, and I look forward to sharing my professional journey and projects with you.
            
